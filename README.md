@@ -1,2 +1,1 @@
-# t
-V
+# test_smsbomber_ok
