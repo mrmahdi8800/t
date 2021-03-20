@@ -1,4 +1,6 @@
-درخواستهای واردات
+import requests
+
+import os
 
 red = "\ 033 [31m" green = "\ 033 [32m"
 
